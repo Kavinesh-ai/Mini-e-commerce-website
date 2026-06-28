@@ -1,0 +1,29 @@
+[
+  {
+    "id": "aurora-lamp",
+    "name": "Aurora Lamp",
+    "short": "Soft ambient lighting for calm evenings.",
+    "description": "A sculpted desk lamp designed to add warmth and focus to your workspace.",
+    "price": "$79",
+    "tag": "Best Seller",
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "echo-chair",
+    "name": "Echo Chair",
+    "short": "Minimal comfort with a modern silhouette.",
+    "description": "A compact chair built for reading, working, and relaxing without taking much space.",
+    "price": "$129",
+    "tag": "New Arrival",
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "terra-bottle",
+    "name": "Terra Bottle",
+    "short": "Elegant hydration for daily travel.",
+    "description": "A stainless steel bottle with a clean form factor and great insulation.",
+    "price": "$45",
+    "tag": "Popular",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80"
+  }
+]
